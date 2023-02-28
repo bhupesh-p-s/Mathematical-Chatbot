@@ -18,5 +18,5 @@ The repository contains a readme.md file, a bot.py file which contains the code 
 
 ## Convo
 The convo will look like this 
+![bot convo](https://user-images.githubusercontent.com/77381824/221873041-4407399e-03ef-4786-8a4b-33ec558479b1.png)
 
-![alt text](bot convo.png)
